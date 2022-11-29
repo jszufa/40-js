@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+    font-style: oblique;
+}
+
+form{
+    font-size: 1.5em;
+}
+
+button{
+    color: darkblue;
+    font-weight: bold;
+}
